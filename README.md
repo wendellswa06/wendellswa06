@@ -13,5 +13,7 @@
 </div>
 
 <br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendellswa06&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="wendellswa06" height="200px"/>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendellswa06&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="wendellswa06" height="200px"/>
+</div>	
   <br/>
